@@ -1,4 +1,4 @@
-# estudo-brokers
+# Brokers
 Um estudo de uma criação utilizando o modelo produto-consumidor
 
 Iniciar o server local KAFKA:
